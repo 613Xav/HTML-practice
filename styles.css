@@ -1,7 +1,9 @@
-body {
-  background: orange;
-}
+
 #description {
   font-style:georgia;
   font-size:32px;
+}
+.features {
+  font-style: georgia;
+  font-size: 16px;
 }
